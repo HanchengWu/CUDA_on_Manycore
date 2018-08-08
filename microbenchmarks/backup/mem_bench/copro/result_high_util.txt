@@ -1,0 +1,138 @@
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 71.852051 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:10  
+ 
+Kernel_Time 78.272705 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:100  
+ 
+Kernel_Time 98.635986 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:1000  
+ 
+Kernel_Time 139.007080 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:10000  
+ 
+Kernel_Time 141.544189 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:20000  
+ 
+Kernel_Time 134.923828 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:30000  
+ 
+Kernel_Time 135.530029 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:40000  
+ 
+Kernel_Time 137.778076 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:50000  
+ 
+Kernel_Time 138.279785 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:60000  
+ 
+Kernel_Time 133.316162 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:70000  
+ 
+Kernel_Time 133.901855 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:80000  
+ 
+Kernel_Time 136.517822 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:90000  
+ 
+Kernel_Time 136.849121 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:100000  
+ 
+Kernel_Time 133.507812 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:200000  
+ 
+Kernel_Time 134.905762 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:300000  
+ 
+Kernel_Time 137.043945 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:400000  
+ 
+Kernel_Time 137.221191 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:500000  
+ 
+Kernel_Time 139.038086 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:600000  
+ 
+Kernel_Time 133.822998 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:700000  
+ 
+Kernel_Time 136.278320 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:800000  
+ 
+Kernel_Time 134.520996 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:900000  
+ 
+Kernel_Time 139.506104 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 
+
+input: Size N:2000000, Utilization U:1, Affinity A:4, BlockNum B:60, ThreadsNum T:64, Random X:1000000  
+ 
+Kernel_Time 138.372070 ms
+results:
+5210 5210 5210 5210 5210 5210 5210 5210 5210 5210 

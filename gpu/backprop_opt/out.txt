@@ -1,0 +1,21 @@
+Random number generator seed: 7
+Input layer size : 4096
+Starting training kernel
+Performing GPU computation
+0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000
+-0.000000

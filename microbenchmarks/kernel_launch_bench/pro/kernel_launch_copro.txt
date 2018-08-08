@@ -1,0 +1,224 @@
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:1, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:2, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:3, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:4, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:5, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:6, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:7, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:8, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:9, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:10, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:11, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:12, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:13, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:14, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:15, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:16, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:17, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:18, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:19, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:20, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:21, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:22, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:23, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:24, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:25, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:26, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:27, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:28, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:1, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:2, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:3, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:4, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:5, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:6, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:7, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:8, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:9, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:10, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:11, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:12, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:13, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:14, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:15, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:16, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:17, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:18, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:19, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:20, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:21, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:22, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:23, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:24, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:25, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:26, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:27, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:1, BlockNum B:28, ThreadsNum T:32, Random X:1  
+ results:
+0 0 0 0 0 0 0 0 0 0 

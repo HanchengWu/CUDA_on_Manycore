@@ -1,0 +1,73 @@
+#ifndef __PHI_MEMORY__
+#define __PHI_MEMORY__
+
+int phiMalloc(float **devPtr, unsigned size){
+	float *tmp = *devPtr;
+
+    #pragma offload_transfer target(mic: DEV_NUM) nocopy(tmp : length(size) ALLOC_A) 
+
+    *devPtr = tmp;
+    return EXIT_SUCCESS;
+}
+
+int phiMalloc(int **devPtr, unsigned size){
+    int *tmp = *devPtr;
+
+    #pragma offload_transfer target(mic: DEV_NUM) nocopy(tmp : length(size) ALLOC_A) 
+
+    *devPtr = tmp;
+    return EXIT_SUCCESS;
+}
+
+
+int phiMemcpy(float *des, float *src , unsigned size, phiMemcpyKind cpytype){
+
+	switch (cpytype){
+		case CpuToPhi:
+				#pragma offload_transfer target(mic: DEV_NUM) in( src[0:size] : into (des[0:size]) REUSE_A ) 
+				
+				break;
+		case PhiToCpu:
+				#pragma offload_transfer target(mic: DEV_NUM) out( src[0:size] : into (des[0:size]) REUSE_A ) 
+				
+				break;
+		default :
+				printf("\nError: Memory copytype is undefined!\n");
+				return EXIT_FAILURE;
+				break;
+	}
+	return EXIT_SUCCESS;
+}
+
+int phiMemcpy(int *des, int *src,unsigned size, phiMemcpyKind cpytype){
+
+	switch (cpytype){
+		case CpuToPhi:
+				#pragma offload_transfer target(mic: DEV_NUM) in( src[0:size] : into (des[0:size]) REUSE_A ) 
+				
+				break;
+		case PhiToCpu:
+				#pragma offload_transfer target(mic: DEV_NUM) out( src[0:size] : into (des[0:size]) REUSE_A ) 
+				
+				break;
+		default :
+				printf("\nError: Memory copytype is undefined!\n");
+				return EXIT_FAILURE;
+				break;
+	}
+	return EXIT_SUCCESS;
+}
+
+int phiFree(float *devPtr){
+	#pragma offload_transfer target(mic: DEV_NUM) nocopy( devPtr : FREE_A ) 
+
+	return EXIT_SUCCESS;
+}
+
+int phiFree(int *devPtr){
+	#pragma offload_transfer target(mic: DEV_NUM) nocopy( devPtr : FREE_A ) 
+
+	return EXIT_SUCCESS;
+}
+
+#endif

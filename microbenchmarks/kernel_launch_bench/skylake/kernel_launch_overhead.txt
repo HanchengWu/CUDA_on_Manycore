@@ -1,0 +1,672 @@
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:1, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.315964 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:1, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.401896 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:1, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.497028 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:1, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.509039 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:2, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.463123 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:2, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.557837 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:2, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 1.055069 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:2, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.527796 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:3, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.574148 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:3, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.859869 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:3, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.746943 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:3, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.571028 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:4, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.671211 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:4, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.688961 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:4, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.988073 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:4, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.640209 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:5, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.965023 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:5, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.923876 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:5, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.899963 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:5, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.647919 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:6, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 1.086018 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:6, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 1.275158 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:6, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 1.164871 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:6, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.709900 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:7, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 1.110710 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:7, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 1.050869 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:7, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.902061 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:7, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.912979 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:8, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 1.073729 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:8, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 1.107971 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:8, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.973015 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:8, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.727856 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:9, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.930025 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:9, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.832132 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:9, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 1.009212 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:9, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.693119 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:10, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 1.058220 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:10, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.970213 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:10, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 1.106129 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:10, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.628090 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:11, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 1.025913 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:11, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.966972 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:11, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 1.165142 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:11, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.628891 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:12, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.931143 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:12, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 1.015030 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:12, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.930029 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:12, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.864931 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:13, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 1.009995 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:13, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.811747 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:13, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.929111 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:13, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.610950 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:14, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.884943 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:14, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.818941 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:14, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 1.041920 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:14, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.634806 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:15, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.842014 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:15, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 1.322996 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:15, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 2.174992 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:15, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.709955 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:16, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.980991 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:16, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.975857 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:16, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 1.010832 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:16, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.724167 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:17, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.772087 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:17, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.909704 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:17, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.886101 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:17, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.710880 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:18, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.895885 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:18, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 1.346966 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:18, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.814962 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:18, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.567133 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:19, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.901974 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:19, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.940971 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:19, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.987137 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:19, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.692244 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:20, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 1.016804 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:20, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.923206 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:20, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.805805 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:20, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.660889 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:21, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.909073 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:21, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.853001 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:21, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.901009 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:21, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.884960 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:22, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.883905 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:22, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.896027 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:22, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.922892 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:22, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.812965 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:23, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.904032 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:23, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.790928 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:23, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.935919 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:23, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.627892 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:24, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.749987 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:24, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.925779 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:24, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.945986 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:24, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.697887 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:25, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 1.159863 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:25, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.913988 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:25, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 1.100054 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:25, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.686962 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:26, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.909975 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:26, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.961182 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:26, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 0.965086 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:26, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.612074 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:27, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.978939 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:27, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.845984 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:27, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 1.041962 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:27, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.622068 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:28, ThreadsNum T:32, Random X:1  
+ 
+Kernel_Time 0.833961 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:28, ThreadsNum T:64, Random X:1  
+ 
+Kernel_Time 0.810818 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:28, ThreadsNum T:96, Random X:1  
+ 
+Kernel_Time 1.051020 ms
+results:
+0 0 0 0 0 0 0 0 0 0 
+
+input: Size N:32, Utilization U:1, Affinity A:2, BlockNum B:28, ThreadsNum T:128, Random X:1  
+ 
+Kernel_Time 0.756905 ms
+results:
+0 0 0 0 0 0 0 0 0 0 

@@ -1,0 +1,128 @@
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 4.90 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 32, ExecutionTime, 35.92 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 32, ExecutionTime, 7.16 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 32, ExecutionTime, 6.41 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 32, ExecutionTime, 10.28 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 32, ExecutionTime, 34.16 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 32, ExecutionTime, 8.56 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 5.63 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 2, DefaultNumThreads, 16, ExecutionTime, 6.62 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 3, DefaultNumThreads, 16, ExecutionTime, 7.09 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 4, DefaultNumThreads, 16, ExecutionTime, 8.84 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 5, DefaultNumThreads, 16, ExecutionTime, 10.06 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 6, DefaultNumThreads, 16, ExecutionTime, 10.04 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 20, DefaultNumThreads, 16, ExecutionTime, 22.56 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 20, DefaultNumThreads, 16, ExecutionTime, 50.69 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 20, DefaultNumThreads, 16, ExecutionTime, 22.43 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 5.01 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 5.64 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 1, ExecutionTime, 6.47 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 1, ExecutionTime, 5.00 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 5.32 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 17, ExecutionTime, 5.69 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 31, ExecutionTime, 6.26 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 4.37 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 2, DefaultNumThreads, 16, ExecutionTime, 4.38 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 3, DefaultNumThreads, 16, ExecutionTime, 5.46 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 20, DefaultNumThreads, 16, ExecutionTime, 5.09 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 20, DefaultNumThreads, 16, ExecutionTime, 5.05 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 20, DefaultNumThreads, 16, ExecutionTime, 20.25 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 7.32 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 2, DefaultNumThreads, 16, ExecutionTime, 5.65 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 3, DefaultNumThreads, 16, ExecutionTime, 7.57 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 4.87 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 2, DefaultNumThreads, 16, ExecutionTime, 34.04 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 2, DefaultNumThreads, 16, ExecutionTime, 40.97 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 2, DefaultNumThreads, 16, ExecutionTime, 5.08 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 2, DefaultNumThreads, 16, ExecutionTime, 5.36 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 10, DefaultNumThreads, 16, ExecutionTime, 32.45 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 10, DefaultNumThreads, 16, ExecutionTime, 13.57 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 10, DefaultNumThreads, 16, ExecutionTime, 13.63 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 10, DefaultNumThreads, 16, ExecutionTime, 18.04 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 10, DefaultNumThreads, 16, ExecutionTime, 14.62 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 10, DefaultNumThreads, 16, ExecutionTime, 14.39 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 10, DefaultNumThreads, 16, ExecutionTime, 17.96 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 30.71 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 6.85 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 3, DefaultNumThreads, 16, ExecutionTime, 6.41 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 7, DefaultNumThreads, 16, ExecutionTime, 11.35 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 15, DefaultNumThreads, 16, ExecutionTime, 17.56 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 31, DefaultNumThreads, 16, ExecutionTime, 30.10 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 3.99 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 7.20 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 7.01 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 9.66 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 7.04 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 5016.35 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 5021.21 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 5022.03 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 5017.09 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 5014.41 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 5008.55 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 5021.05 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 5014.16 
+
+DefaultnumPtsPerCore, 1, DefaultNumBlocks, 1, DefaultNumThreads, 16, ExecutionTime, 5015.41 
